@@ -1,1 +1,3 @@
 # FullStackProject
+
+This is the first full stack project that I've tried implementing myself as a computer engineering major. It might come off as a surprise because I'm a computer engineering major and full stack isn't necessarily something that I want to pursue full time for my career but I think it's really cool and interesting to try to code a front end app with both UI/UX stuff in the background. I'm curious in how web applications work and this is my first project. Along the way, I will document my progress on this project and apply some self taught skills to build this app from the bottom up. Thanks for reading this and I hope my app will have some instructional value, especially for those who want to get into full stack development.
