@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(to bottom, #f76b0e, #ff4fa7);
+}
+
+#description {
+    position: relative;
+    z-index: 100;
+}
+
+:root {
+    --scroll: 0;
+}
